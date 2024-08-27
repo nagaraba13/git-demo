@@ -2,15 +2,6 @@
 
 This is the first file repo.
 
-##IPsum Below
+##Website Contents
 
-alkerajreareatreatrew
-atajajhstea;ertkart3ew
-t4aqhbtekqakteakltea
-atatatre
-
-
-qeqwareraewrr
-
-art
-earter3e
+1.index.html
